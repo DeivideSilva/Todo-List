@@ -9,7 +9,7 @@ Tecnologias utilizadas:
 
 Deploy no **netlify**
 
-[link do site:]()
+[https://projeto-todo.netlify.app/](https://projeto-todo.netlify.app/)
 
 
 ![imagem](img/img1.png)
